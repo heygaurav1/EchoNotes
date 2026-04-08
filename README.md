@@ -2,7 +2,8 @@
 
 A modern, real-time collaborative note-taking app built with **SwiftUI** where multiple users can edit the same note simultaneously — just like Google Docs but native on iOS.
 
-![App Preview](screenshots/hero.png)
+
+## [App Preview](screenshots/dashboard.png)
 
 ## ✨ Features
 
